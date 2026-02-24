@@ -22,7 +22,7 @@ Supervised Sentiment Fine-Tuning (The Foundation) Generic sentiment models often
 
 
 ## Results: 
-    - Achieved a Final Test Accuracy of 85.5% with a particularly strong recall for Negative (0.93) and Positive (0.88) classes.
+   - Achieved a Final Test Accuracy of 85.5% with a particularly strong recall for Negative (0.93) and Positive (0.88) classes.
 
 Specialized NER Extraction (The Context) Data is meaningless without entities. I integrated a Large-Cased BERT-NER model to extract Organizations (ORG) and Locations (LOC). This allows businesses to not just know what is being said, but exactly who it affects and where the impact is centered.
 
